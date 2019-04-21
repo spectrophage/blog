@@ -1,2 +1,2 @@
-# blog
-blog posts with referenced scripts and such
+# blog.spectrophage.dev 
+This is where I'll be pasting my blog posts with referenced scripts and such...
